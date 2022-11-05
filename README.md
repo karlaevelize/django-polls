@@ -1,7 +1,9 @@
 ### How to run this app
 
 **Run app:** `python manage.py runserver`
+
 **Change port:** `python manage.py runserver 8080`
+
 **Change server IP:** `python manage.py runserver 0.0.0.0:8000`
 
 ### How to set-up with Virtual Environment
